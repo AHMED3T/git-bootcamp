@@ -1,1 +1,4 @@
 this is a random text file.
+
+
+I ve applied hotfix bug

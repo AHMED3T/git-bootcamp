@@ -1,20 +1,5 @@
-console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`); console.log(`Biometric 2.0`);
+console.log(`Biometric 2.0`);
 
-const costSpinner = (input) => {
-
-  return spinnedCost;
-
-}
-const costSpinner = (input) => {
-
-  return spinnedCost;
-
-}
-const costSpinner = (input) => {
-
-  return spinnedCost;
-
-}
 
 
 console.log(`Biometric 2.0`);

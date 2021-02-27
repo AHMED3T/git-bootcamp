@@ -5,6 +5,16 @@ const costSpinner = (input) => {
   return spinnedCost;
 
 }
+const costSpinner = (input) => {
+
+  return spinnedCost;
+
+}
+const costSpinner = (input) => {
+
+  return spinnedCost;
+
+}
 
 
 console.log(`Biometric 2.0`);

@@ -4,5 +4,5 @@ const b = 10;
 
 
 
-console.log(`You're verified.`);
-console.log(`Biometric 2.0.`);
+console.log(`I've implemented feature a.`);
+console.log(`Biometric 2.0`);

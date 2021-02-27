@@ -4,5 +4,6 @@ const b = 10;
 
 
 
-console.log(`I've implemented feature a.`);
+const a = require(`fs`);
+const b = a.readFile();
 console.log(`Biometric 2.0`);
